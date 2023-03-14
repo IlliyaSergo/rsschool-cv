@@ -1,6 +1,6 @@
 Iliya Sergo
 
-Novice programmer
+Novice programmer and automation engeneer 
 
 -------------------
 
@@ -62,4 +62,6 @@ University: National University of Shipbuilding named after Admiral Makarov, aut
 
 English
 
-B2
+B2;
+
+Passed The School of Young Guide Interpreters (Petro Mohyla Black Sea National University)
